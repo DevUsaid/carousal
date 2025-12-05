@@ -43,5 +43,6 @@
         }
 
         // Initialize
+        // add a new line code 
         document.getElementById('totalSlides').textContent = totalSlides;
         createDots();
